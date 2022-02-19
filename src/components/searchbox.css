@@ -1,0 +1,15 @@
+.search-box {
+  padding: 5px 0px 5px 10px;
+  margin-bottom: 20px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  background-color: lightskyblue;
+  border: 2px solid #0ccac4;
+  border-radius: 5px;
+  outline: none;
+}
+
+.search-box:active {
+  outline: none;
+}
